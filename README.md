@@ -1,6 +1,6 @@
 ## Hello I am Keertana !
 - 🎓 First-year Computer Science student
--💡 Learning Python, Java, and building fun Arduino + UI projects  
+- 💡 Learning Python, Java, and building fun Arduino + UI projects  
 - 🔭 I’m deeply interested in Cyber Forensic Data Analysis and love exploring new tools, techniques, and ideas in tech. Constantly learning, one bug and byte at a time. 🕵️‍♀️💻
   
   ---
