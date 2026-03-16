@@ -1,6 +1,6 @@
 ## Hello I am Keertana !
 - 🎓Undergraduate Computer Science student
-- 💡 Learning Python, Java, and building fun Arduino + UI projects  
+- 💡 Learning Java, and building fun UI projects  
 - 🔭 I’m deeply interested in Data Analysis and love exploring new tools, techniques, and ideas in tech. Constantly learning, one bug and byte at a time. 🕵️‍♀️💻
   
   ---
