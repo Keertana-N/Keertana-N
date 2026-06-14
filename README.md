@@ -45,8 +45,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Keertana-N&show_icons=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEERTANA-N&layout=compact" />
 </p>
 
 <div align="center">
