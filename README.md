@@ -2,13 +2,14 @@
 
 # Hi, I'm Keertana 👋
 
-### Aspiring AI/ML Engineer | Computer Science Undergraduate
+## Aspiring AI/ML Engineer | Computer Science Undergraduate
+</div>
 
 💡 Building AI-powered solutions and exploring Machine Learning and Data Analytics
 
 🌱 Currently learning Deep Learning, AI Agents, and Open Source Development
 
-</div>
+
 
 ---
 
