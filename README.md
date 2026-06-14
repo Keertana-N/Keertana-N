@@ -1,4 +1,4 @@
-## Hello I am Keertana !
+##                                                    Hello I am Keertana !
 - 🎓Undergraduate Computer Science student
 - 💡 Learning Java, and building fun ML projects  
 - 🔭 I’m deeply interested in Data Analysis with AI ML and love exploring new tools, techniques, and ideas in tech. Constantly learning, one bug and byte at a time. 🕵️‍♀️💻
